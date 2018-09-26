@@ -8,9 +8,9 @@ module.exports = {
 		[100, 100],
 		[100, 100],
 	],
-	interval: 100,
-	repetitions: 10,
-	sensitivity: 0.5,
-	minimalLength: 39,
-	maximalLength: 39,
+	“interval”: 10000,
+ “sensitivity”: 0.5,
+ “repetitions”: 20,
+ “minimalLength”: 538,
+ “maximalLength”: 538
 };
