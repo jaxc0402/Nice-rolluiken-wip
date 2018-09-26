@@ -1,5 +1,4 @@
-# Homey RFDriver Example Apps
+# Nice Rolluiken
 
-This repository contains example apps build with the Homey RFDriver.
-To get started. Please read the readme in the homey-rfdriver repository.
+Dit is een test
 
